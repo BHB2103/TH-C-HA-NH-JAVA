@@ -2,15 +2,26 @@
 Thực hành môn Công nghệ Java
 
 Cấu trúc File
-THỰC HÀNH
-|---LABX
-|   |---assignments.ipynb (file đề bài)
-|   |---ImageResult (chứa ảnh kết quả quả chạy)
-|   |   |---Các hình ảnh
-|   |   |---...
-|   |---BaiY_LabX_23520086.java (file bài tập code)
-|   |---(một vài dữ file dữ kiện khác)
-|---...
-|   |---...
-|   |---...
-README.md
+
+THỰC HÀNH/
+├── LAB1/
+│   ├── ImageResult/
+│   │   ├── .../
+│   │   └── .../
+│   ├── Bai1_Lab1_23520086.java/
+│   ├── Bai2_Lab1_23520086.java/
+│   ├── Bai3_Lab1_23520086.java/
+│   ├── Bai4_Lab1_23520086.java/
+│   └── assignmentsLab1.ipynb/
+├── Lab2/
+│   ├── Images/
+│   │   ├── bottompipe.png/
+│   │   ├── flappybird.png/
+│   │   ├── flappybirdbg.png/
+│   │   └── toppipe.png/
+│   ├── Background.java/
+│   ├── FlappyBird.java/
+│   ├── Main.java/
+│   ├── Pipe.java/
+│   └── assignmentsLab2.ipynb/
+└── README.md
