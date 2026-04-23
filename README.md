@@ -24,4 +24,10 @@ THỰC HÀNH/
 │   ├── Main.java/
 │   ├── Pipe.java/
 │   └── assignmentsLab2.ipynb/
+├── Lab2/
+│   ├── Img/
+│   │   ├── ....png/ (shoe images)
+│   │   └── sample.png/
+│   ├── ShoeStoreUI.java/
+│   └── assignmentsLab3.ipynb/
 └── README.md
